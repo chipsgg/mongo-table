@@ -1,6 +1,6 @@
 {
   "name": "@chipsgg/mongo-table",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "main": "index.js",
   "dependencies": {
     "bluebird": "^3.7.0",
