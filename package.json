@@ -15,7 +15,7 @@
   "description": "Simplifies initializing database, collection and indexes while providing common basic mongo calls.",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org/chipsgg/mongo-table.git"
+    "url": "git+ssh://git@github.com:chipsgg/mongo-table.git"
   },
   "keywords": [
     "mongo",
@@ -24,5 +24,5 @@
   ],
   "author": "Chips.gg <admin@chips.gg>",
   "license": "MIT",
-  "homepage": "https://bitbucket.org/chipsgg/mongo-table#readme"
+  "homepage": "https://github.com/chipsgg/mongo-table#readme"
 }
