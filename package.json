@@ -1,0 +1,28 @@
+{
+  "name": "@chipsgg/mongo-table",
+  "version": "1.2.1",
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "^3.7.0",
+    "highland": "^2.13.5",
+    "lodash": "^4.17.15",
+    "mongodb": "^4.4.1"
+  },
+  "devDependencies": {
+    "dotenv": "^10.0.0",
+    "tape": "^5.0.1"
+  },
+  "description": "Simplifies initializing database, collection and indexes while providing common basic mongo calls.",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/chipsgg/mongo-table.git"
+  },
+  "keywords": [
+    "mongo",
+    "db",
+    "table"
+  ],
+  "author": "Chips.gg <admin@chips.gg>",
+  "license": "MIT",
+  "homepage": "https://bitbucket.org/chipsgg/mongo-table#readme"
+}
