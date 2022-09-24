@@ -24,5 +24,8 @@
   ],
   "author": "Chips.gg <admin@chips.gg>",
   "license": "MIT",
-  "homepage": "https://bitbucket.org/chipsgg/mongo-table#readme"
+  "homepage": "https://bitbucket.org/chipsgg/mongo-table#readme",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  }
 }
