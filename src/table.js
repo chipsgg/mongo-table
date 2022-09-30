@@ -185,8 +185,8 @@ module.exports = async (db, schema) => {
     return col;
   }
 
-  function distinct(field) {
-    return col.distinct(field);
+  function distinct(...args) {
+    return col.distinct(...args);
   }
 
   function list() {
